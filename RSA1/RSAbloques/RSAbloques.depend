@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1573471403 source:d:\universidad\tercer semestre\algebra abstracta\codeblocks\rsa1\rsabloques\main.cpp
+	<iostream>
+	"RSA.h"
+
+1573470416 d:\universidad\tercer semestre\algebra abstracta\codeblocks\rsa1\rsabloques\include\rsa.h
+	<iostream>
+	<string.h>
+	<NTL/ZZ.h>
+
+1573472169 source:d:\universidad\tercer semestre\algebra abstracta\codeblocks\rsa1\rsabloques\src\rsa.cpp
+	"RSA.h"
+	<sstream>
+	<fstream>
+
