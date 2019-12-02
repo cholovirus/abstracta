@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1575124055 source:d:\universidad\tercer semestre\algebra abstracta\codeblocks\rsa1\rsabloques\main.cpp
+	<iostream>
+	"RSA.h"
+	<NTL/ZZ.h>
+	<fstream>
+	<sstream>
+	"RC4.h"
+
+1574987734 d:\universidad\tercer semestre\algebra abstracta\codeblocks\rsa1\rsabloques\include\rsa.h
+	<iostream>
+	<string.h>
+	<NTL/ZZ.h>
+
+1575124302 source:d:\universidad\tercer semestre\algebra abstracta\codeblocks\rsa1\rsabloques\src\rsa.cpp
+	"RSA.h"
+	<sstream>
+	<fstream>
+	"RC4.h"
+
+1575122496 source:d:\universidad\tercer semestre\algebra abstracta\codeblocks\rsa1\rsabloques\src\rc4.cpp
+	"RC4.h"
+	<bitset>
+	<string>
+	<sstream>
+	<climits>
+	<windows.h>
+	<stdio.h>
+	<tchar.h>
+
+1575122496 d:\universidad\tercer semestre\algebra abstracta\codeblocks\rsa1\rsabloques\include\rc4.h
+	<stdlib.h>
+	<string>
+	<time.h>
+	<iostream>
+	<bitset>
+	<iostream>
+	<NTL/ZZ.h>
+	<vector>
+

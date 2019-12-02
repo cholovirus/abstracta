@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1574673548 source:d:\universidad\tercer semestre\algebra abstracta\codeblocks\rc4\main.cpp
+	<iostream>
+	<RC4.h>
+	<NTL/ZZ.h>
+	<bitset>
+
+1574628499 d:\universidad\tercer semestre\algebra abstracta\codeblocks\rc4\include\rc4.h
+	<stdlib.h>
+	<string>
+	<time.h>
+	<iostream>
+	<bitset>
+	<iostream>
+	<NTL/ZZ.h>
+	<vector>
+
+1574628665 source:d:\universidad\tercer semestre\algebra abstracta\codeblocks\rc4\src\rc4.cpp
+	"RC4.h"
+	<bitset>
+	<string>
+	<sstream>
+	<climits>
+	<windows.h>
+	<stdio.h>
+	<tchar.h>
+

@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1575124495 source:d:\universidad\tercer semestre\algebra abstracta\codeblocks\gamal\main.cpp
+	<iostream>
+	"ElGamal.h"
+	<sstream>
+	<fstream>
+	"RC4.h"
+
+1575080321 source:d:\universidad\tercer semestre\algebra abstracta\codeblocks\gamal\src\elgamal.cpp
+	"ElGamal.h"
+	<sstream>
+	<vector>
+	"RC4.h"
+	<fstream>
+
+1574688140 d:\universidad\tercer semestre\algebra abstracta\codeblocks\gamal\include\elgamal.h
+	<iostream>
+	<NTL/ZZ.h>
+	<string.h>
+
+1575067053 source:d:\universidad\tercer semestre\algebra abstracta\codeblocks\gamal\src\rc4.cpp
+	"RC4.h"
+	<bitset>
+	<string>
+	<sstream>
+	<climits>
+	<windows.h>
+	<stdio.h>
+	<tchar.h>
+
+1575066922 d:\universidad\tercer semestre\algebra abstracta\codeblocks\gamal\include\rc4.h
+	<stdlib.h>
+	<string>
+	<time.h>
+	<iostream>
+	<bitset>
+	<iostream>
+	<NTL/ZZ.h>
+	<vector>
+
